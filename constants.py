@@ -1,7 +1,7 @@
 z0 = 0  # start of the transport matrix
 ze = 29.455  # end of the transport matrix [cm]
 zstep = 0.01  # step size of the sliced magnetic field
-ek = 0.1  # kinetic energy of the beam (MeV)
+ek = 0.2  # kinetic energy of the beam (MeV)
 e0 = 0.511  # electron rest energy (MeV)
 e = ek + e0
 

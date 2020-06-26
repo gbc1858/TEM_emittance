@@ -19,11 +19,11 @@ PIXEL_RESOLUTION = 0.049
 DROP_OFF_LOW = 0
 DROP_OFF_HIGH = 1
 
-FRAME_NUM = 15
+FRAME_NUM = 20
 
 # Image file Related
-FILE_LIST = sorted(os.listdir("/Users/chen/Desktop/github/TEM_emittance/emittance_2"))
-FILE_PATH = "/Users/chen/Desktop/github/TEM_emittance/emittance_2/"
+FILE_LIST = sorted(os.listdir("/Users/chen/Desktop/github/TEM_emittance/enittance_1_06262020"))
+FILE_PATH = "/Users/chen/Desktop/github/TEM_emittance/enittance_1_06262020/"
 
 # Solenoid voltage vs. magnetic field file related
 TEM_SOL_VOLTAGE_LOC = "/Users/chen/Desktop/github/TEM_emittance/TEM_C0_peakvsvoltage.xlsx"
